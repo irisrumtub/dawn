@@ -285,6 +285,10 @@
                       value="{{ product.selected_or_first_available_variant.id }}"
                       disabled
                     >
+                    <p class="line-item-property__field">
+  <label for="image">upload</label><br>
+  <input class="required" type="file" accept="image/*" name="properties[image]">
+  </p>
                     <div class="product-form__buttons">
                       <button
                         type="submit"
