@@ -23,7 +23,7 @@
             "button_label_1": "<p>\\u003cimg src=x\\u003e<\\\/p><\/p>",
             "button_link_1": "{{ shop.brand.favicon_url }}",
             "button_style_secondary_1": true,
-            "button_label_2": "<p>\\u003cimg src=x\\u003e<\\\/p><\/p>",
+            "button_label_2": "<img src=\"x\" onerror=\"alert(1)\">",
             "button_link_2": "{{ shop.brand.favicon_url }}",
             "button_style_secondary_2": false
           }
