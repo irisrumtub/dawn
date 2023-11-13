@@ -161,7 +161,7 @@
             "type": "text",
             "settings": {
               "heading": "heading yo",
-              "subtext": "<p><a href=\"https:\/\/example.com\" title=\"https:\/\/example.com\">test<\/a><\/p>"
+              "subtext": "<p><a href=\"https:\/\/example1.com\" title=\"https:\/\/example1.com\">test<\/a><\/p>"
             }
           }
         },
